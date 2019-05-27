@@ -1,0 +1,9 @@
+body {
+  font: 8pt Arial,Verdana;
+  color: black;
+  position: static;
+  background-color: white;
+  text-align: left;
+  border-width: thin;
+  margin: 10px 80px;
+}
